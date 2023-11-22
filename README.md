@@ -1,6 +1,6 @@
 # Happy Birthday Ca!
 
-<img src="./img/readme.jpg" width="100">
+<img src="./img/readme.jpg" width="300">
 
 halo ca! apa kabar? semoga kamu baik-baik aja ya disana! aku yakin kamu ga akan membaca ini. boro-boro membaca menemukan ini saja kurasa mustahil wkwk. btw selamat ulang tahun ya cantip! semoga kamu semakin sabar dan kuat. doa terbaik untuk kamu yaa. semoga apa yang kamu inginkan selama ini bisa segera terwujud. semoga Tuhan selalu melindungi kamu. wishing you a future filled with joy!
 
